@@ -11,30 +11,30 @@ At the top we must have refresh (animated) Image Button which used for update in
 ## First view 
 must have:
 
-    1. list of Items with minor details (name, description – 2 rows)
+	1. list of Items with minor details (name, description – 2 rows)
 
-    * description can be more then 2 rows length, in this case it must have possibility to expand (we must see full description)
+		* description can be more then 2 rows length, in this case it must have possibility to expand (we must see full description)
 
-    2. each record must have link to detail information
+	2. each record must have link to detail information
 
-    3. each record must have link to delete record in database. (After refresh all deleted records must be restored in internal database)
+	3. each record must have link to delete record in database. (After refresh all deleted records must be restored in internal database)
 
 ## Second view 
 used for detailed information of current record, comments, if exists, must be hidden before you click on “+” link
 
-* Name
-* Code
-* Description
-* Price
-*Details
-* Display
-* Processor
-* Memory
-* Hdd
-* Other
-* Comments
-* Name
-* Comment
+	* Name
+	* Code
+	* Description
+	* Price
+	* Details
+		* Display
+		* Processor
+		* Memory
+		* Hdd
+		* Other
+	* Comments
+		* Name
+		* Comment
 
 
 
