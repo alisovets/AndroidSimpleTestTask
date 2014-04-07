@@ -8,7 +8,8 @@ The main task is – get information from the Service (http://www.edsson.com/ser
 
 At the top we must have refresh (animated) Image Button which used for update information from Service
 
-# First view must have
+## First view 
+must have:
 
     1. list of Items with minor details (name, description – 2 rows)
 
@@ -18,7 +19,8 @@ At the top we must have refresh (animated) Image Button which used for update in
 
     3. each record must have link to delete record in database. (After refresh all deleted records must be restored in internal database)
 
-# Second view used for detailed information of current record, comments, if exists, must be hidden before you click on “+” link
+## Second view 
+used for detailed information of current record, comments, if exists, must be hidden before you click on “+” link
 
 * Name
 * Code
