@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple test task</string>
+    <string name="action_about">О программе</string>
+    <string name="about_title">О программе.</string>
+    <string name="no_network_connection">Сеть не доступна!</string>
+    <string name="you_need_check_settings">Проверьте сетевые настройки.</string>
+    <string name="settings_btn_title">Настройки&#8230;</string>
+    <string name="yes_btn_title">Да</string>
+    <string name="ok_btn_title">ОК</string>
+    <string name="no_btn_title">Нет</string>
+    <string name="cancel_btn_title">Отмена</string>
+    <string name="delete_confirm">Подтверждение удаления.</string>
+    <string name="are_you_sure_delete">Вы действительно хотите удалить эту запись?</string>
+    <string name="failed_data_refresh">Не удалось обновить данные!</string>
+    <string name="refresh_network_problems">Возможно, проблемы с сетью.</string>
+    <string name="refresh_json_wrong">Неверный формат данных.</string>
+    <string name="refresh_action_title">Обновить данные</string>
+    <string name="code_title">Код: </string>
+    <string name="price_title">Цена: </string>
+    <string name="details_title">Подробности: </string>
+    <string name="dispaly_title">Монитор: </string>
+    <string name="processor_title">Процессор: </string>
+    <string name="memory_title">Память: </string>
+    <string name="hdd_title">Hdd: </string>
+    <string name="other_title">Другое: </string>
+    <string name="description_title">Описание: </string>
+    <string name="comments_btn_title">Комментарии</string>
+    <string name="about_text">Эта простая Helloworld программа - результат выполнения тестового задания для одного потенциального работодателя.
+        \nПрограмма просто получает данные в Json формате с Web сайта по хардкодно прописанному адресу, парсит, сохраняет их в базу данных и отображает на экране, позволяя удалять некоторые данные.</string>
+
+</resources>
