@@ -7,6 +7,11 @@ Min SDK version - 7 (Android 2.1)
 [This is the original task description][1]
 
 
+![Screenshot](Screenshots/screen1.png?raw=true) . ![Screenshot](Screenshots/screen2.png?raw=true)
+
+![Screenshot](Screenshots/screen5.png?raw=true) . ![Screenshot](Screenshots/screen6.png?raw=true)
+
+
 ## To build
 
 You require the following to build:
